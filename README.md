@@ -7,3 +7,4 @@
 - [ssl相关](./blogs/ssl.md)
 - [骨骼动画](./blogs/skeleton.md)
 - [数字签名](blogs/数字签名.md)
+- [深入Promise](blogs/深入Promise.md)
