@@ -8,3 +8,4 @@
 - [骨骼动画](./blogs/skeleton.md)
 - [数字签名](blogs/数字签名.md)
 - [深入Promise](blogs/深入Promise.md)
+- [ts声明合并](blogs/TypeScript声明合并.md)
