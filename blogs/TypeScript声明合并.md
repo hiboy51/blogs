@@ -21,8 +21,6 @@
     // ////////////////
     // module_a_ext.ts
 
-    import ModuleA from "./module_a"; // 这一句很重要
-
     // 注意这里的模块路径
     declare module "./module_a" {
         // 通过interface来扩展实例方法
